@@ -144,9 +144,18 @@
      p {
          font-size: 16px;
      }
-     /* about me Page */
+     /* about me Page + resume Page*/
      
      .mainWrapper {
+         width: 70%;
+         margin-right: auto;
+         margin-left: auto;
+         height: auto;
+         display: block;
+         margin-top: 50px;
+     }
+     
+     .mainContent-Wrapper {
          width: 70%;
          margin-right: auto;
          margin-left: auto;
@@ -388,11 +397,12 @@
      }
      
      #footer2 {
+         margin-top: 100px;
          position: fixed;
      }
      
      #footer3 {
-         position: fixed;
+         position: relative;
      }
      
      .footerWrap {
