@@ -197,6 +197,12 @@
      #resume {
          max-width: 100%;
      }
+     
+     #centerText {
+         text-align: center;
+         margin-top: 0px;
+         padding-bottom: 50px;
+     }
      /* Type 1 of Project Pages  */
      /* video formatting */
      
