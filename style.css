@@ -223,9 +223,8 @@
          width: 90%;
          margin-right: auto;
          margin-left: auto;
-         margin-top: 100px;
+         margin-top: 75px;
          line-height: 20px;
-         margin-bottom: 50px;
      }
      
      .rightleft {
@@ -305,6 +304,15 @@
      
      .img img {
          max-width: 100%;
+     }
+     
+     .centerIMG {
+         display: block;
+         width: 100%;
+     }
+     
+     .centerIMG img {
+         max-width: 100%
      }
      
      .numlist {
