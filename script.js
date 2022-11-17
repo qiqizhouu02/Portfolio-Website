@@ -17,7 +17,7 @@ close.addEventListener("click", () => {
 
 var i = 0;
 var images = [];
-var slideTime = 3000; // 3 seconds
+var slideTime = 5000; // 5 seconds
 
 images[0] = 'photos/bgIMG/bg1-1x.jpg';
 images[1] = 'photos/bgIMG/bg2-1x.jpg';
